@@ -178,11 +178,11 @@ class SaikrPipeline:
 ```
 
 # 第2章 运行结果
-
-## ![](https://pic.imgdb.cn/item/62a1dde70947543129d66ac9.png)2.1数据可视化
+## 2.1数据可视化
+![](https://pic.imgdb.cn/item/62a1dde70947543129d66ac9.png)
 
 图 2-1竞赛分类统计截图
-
-## ![](https://pic.imgdb.cn/item/62a1ddfc0947543129d687c5.png)2.2持久化存储
+## 2.2持久化存储
+![](https://pic.imgdb.cn/item/62a1ddfc0947543129d687c5.png)
 
 图 2-2 数据库数据截图
