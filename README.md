@@ -138,7 +138,7 @@ create table contest
 ```py
 class SaikrPipeline:
     def __init__(self):
-        self.connect = pymysql.connect(host='localhost', port=3306, user='root', password='jixing', db='saikr')
+        self.connect = pymysql.connect(host='localhost', port=3306, user='***', password='***', db='saikr')
         self.cursor = self.connect.cursor()
         self.cursor.execute('truncate table contest')
 
